@@ -1,0 +1,30 @@
+*{
+    margin: 0px;
+    padding: 0%;
+}
+.dad{
+    display: flex;
+    justify-content: space-around;
+}
+.box1{
+    background-color: yellowgreen;
+    padding: 20px;
+    width: 110px;
+    
+}
+.box2{
+    background-color: blue;
+    padding: 20px;
+    width: 110px;
+    
+}
+.box3{
+    background-color: tomato;
+    padding: 20px;
+    width: 110px;
+    
+}
+
+
+    
+
